@@ -93,7 +93,7 @@
     "autoprefixer": "^9.7.1",
     "babel-eslint": "^10.0.3",
     "babel-plugin-istanbul": "^5.2.0",
-    "bundlesize": "^0.18.0",
+    "bundlesize": "^0.18.1",
     "clean-css-cli": "^4.3.0",
     "cross-env": "^6.0.3",
     "eslint": "^6.6.0",
